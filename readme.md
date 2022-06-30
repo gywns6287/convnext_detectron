@@ -1,9 +1,7 @@
 # Convnext code for detectron users
 
-user must add 
+This code is for detectron2 user.
+convnext.py includes convnext + fpn code.
 
-MODEL.CONVNEXT.TYPE = 'T', 'S', 'B', 'L', or 'XL' 
+see config.yaml to use this model as backbone networks of detectron.
 
-MODEL.CONVNEXT.OUT_FEATURES = ['res2','res3','res4','res5']
-
-in config file.
