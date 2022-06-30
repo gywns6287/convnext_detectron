@@ -1,6 +1,6 @@
 # Convnext code for detectron users
 
-This code is for detectron2 user.
+This code is for detectron2 users.
 
 convnext.py includes convnext + fpn code.
 
